@@ -17,7 +17,7 @@ To get a local copy of the project, you can simply clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/TVSSAMHITH/NETFLIX_CLONE.git
 Prerequisites
 There are no specific prerequisites required to view this project. You only need a web browser.
 
